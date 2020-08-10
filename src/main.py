@@ -1,7 +1,7 @@
 from src.bot import Bot
 
 
-API_TOKEN = '731824033:AAGHUrLFC0cH-66SYksu8VkfanQ77wqkV7g'
+API_TOKEN = '1204400024:AAFWMQzwqI76urRI72WkUBfbnCMJcWRyxbs
 
 if __name__ == '__main__':
     bot = Bot(API_TOKEN)
